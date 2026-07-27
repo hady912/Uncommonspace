@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Language } from './types';
-import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { AboutSection } from './components/AboutSection';
-import { EventTypesSection } from './components/EventTypesSection';
-import { PricingCalculator } from './components/PricingCalculator';
-import { ReviewsAndInstagram } from './components/ReviewsAndInstagram';
-import { LocationAndContact } from './components/LocationAndContact';
-import { Footer } from './components/Footer';
+import { Header } from './Header';
+import { Hero } from './Hero';
+import { AboutSection } from './AboutSection';
+import { EventTypesSection } from './EventTypesSection';
+import { PricingCalculator } from './PricingCalculator';
+import { ReviewsAndInstagram } from './ReviewsAndInstagram';
+import { LocationAndContact } from './LocationAndContact';
+import { Footer } from './Footer';
 
 export default function App() {
   const [lang, setLang] = useState<Language>('en');
