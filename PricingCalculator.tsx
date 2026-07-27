@@ -1,6 +1,6 @@
 import React from 'react';
 import { Language } from '../types';
-import { PRICING_PACKAGES, UI_TEXT } from '../data/translations';
+import { PRICING_PACKAGES, UI_TEXT } from './translations';
 import { Check, MessageCircle, ShieldCheck } from 'lucide-react';
 
 interface PricingCalculatorProps {
