@@ -1,0 +1,6 @@
+{
+  "name": "Uncommon Space",
+  "description": "Premium creative rental space and event venue in Qurtubah, Riyadh, Saudi Arabia for photo, video, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
